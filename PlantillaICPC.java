@@ -1,9 +1,3 @@
-/*
-*   FJMP-EDU @ 2026
-*   Plantilla de configuración ICPC java
-*   frajavimopu@gmail.com
-*/
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -92,3 +86,4 @@ public class PlantillaICPC {
         id.resuelve();
     }   
 }
+
